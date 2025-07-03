@@ -14,4 +14,4 @@
 0.0.0.0 camplethora.com
 0.0.0.0 buoydeparturediscontent.com
 0.0.0.0 vazdatbfutc.com
-0.0.0.0 vnexpress.vn
+0.0.0.0 vnexpress.net
