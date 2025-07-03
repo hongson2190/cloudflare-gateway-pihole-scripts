@@ -15,3 +15,4 @@
 0.0.0.0 buoydeparturediscontent.com
 0.0.0.0 vazdatbfutc.com
 0.0.0.0 vnexpress.net
+0.0.0.0 dantri.com.vn
