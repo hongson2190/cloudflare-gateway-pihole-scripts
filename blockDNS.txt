@@ -18,3 +18,4 @@
 0.0.0.0 dantri.com.vn
 0.0.0.0 mobile.facebook.com
 0.0.0.0 m.facebook.com
+0.0.0.0 facebook.com
