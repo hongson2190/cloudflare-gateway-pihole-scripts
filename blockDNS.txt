@@ -1,0 +1,17 @@
+# AdguardDNS
+#
+# Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+# Last converted - Thu, 03 Jul 2025 02:21:27 +0000
+#
+
+0.0.0.0 potwm.com
+0.0.0.0 audiensi.com
+0.0.0.0 cs.rivierewhimsey.com
+0.0.0.0 rtaisimefxljsab.com
+0.0.0.0 st.alneingloat.com
+0.0.0.0 crakrevenue.xyz
+0.0.0.0 wmctjd.com
+0.0.0.0 camplethora.com
+0.0.0.0 buoydeparturediscontent.com
+0.0.0.0 vazdatbfutc.com
+0.0.0.0 vnexpress.vn
